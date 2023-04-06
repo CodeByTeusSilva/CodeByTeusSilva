@@ -1,5 +1,4 @@
 ### 👋 Olá! Meu nome é Mateus Silva
-  
   ##
 
 - 🌱 Sou novo na área de desenvolvimento backend
@@ -11,22 +10,17 @@
 - 🏎️ Sou um grande fã de automobilismo, especialmente da Fórmula 1
 - 🎮 Também sou fã de jogos de vídeo game e adoro jogar sempre que possível
 
+ ##
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByTeusSilva&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByTeusSilva&layout=compact&theme=dracula)](https://github.com/CodeByTeusSilva/github-readme-stats)
-
-  ##
-
-<!-- Repositórios -->
-<a href="https://github.com/CodeByTeusSilva/CodeByTeusSilva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByTeusSilva&repo=CodeByTeusSilva&show_owner=false&theme=dracula" />
-</a>
   
 <!-- Icones das linguagens : https://devicon.dev/ -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Teus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
-  ##
+ ##
   
 <!-- Redes Sociais -->
 <div> 
