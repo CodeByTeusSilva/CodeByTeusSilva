@@ -1,44 +1,8 @@
-### 👋 Olá! Meu nome é Mateus Silva
-  ##
+<img width='100%' src='https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Mateus+dos+Santos+Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35' />
 
-- 🌱 Sou novo na área de desenvolvimento backend
-- 📚 Atualmente estou estudando Java
-- 💻 Tenho conhecimento básico em Algoritmos e POO
-- 👨‍👩‍👧‍👦 Estou animado em trabalhar em equipe e colaborar em projetos desafiadores
-- 🚀 Meu objetivo é aprimorar minhas habilidades e construir uma carreira em desenvolvimento backend
-- ⚽️ Gosto de praticar futebol nas horas vagas
-- 🏎️ Sou um grande fã de automobilismo, especialmente da Fórmula 1
-- 🎮 Também sou fã de jogos de vídeo game e adoro jogar sempre que possível
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1b98e0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Mateus+Silva;Tenho+21+anos;Eu+sou+de+Barueri,+São+Paulo;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;na+Faculdade+Impacta;Seja+Bem-Vindo!+⭐)
 
- ##
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByTeusSilva&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByTeusSilva&layout=compact&theme=dracula)](https://github.com/CodeByTeusSilva/github-readme-stats)
-  
-<!-- Icones das linguagens : https://devicon.dev/ -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Teus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Thiagodev777&show_icons=true&count_private=true&hide_border=true&title_color=1b98e0&icon_color=1b98e0&text_color=fff&bg_color=00ff0080" alt="Antonio Thiago" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodev777&layout=compact&hide_border=true&title_color=1b98e0&text_color=fff&bg_color=00ff0080" />
 </div>
-
- ##
-  
-<!-- Redes Sociais -->
-<div> 
-  <a href="https://www.linkedin.com/in/dev-mateussilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-<!-- Icone de Perfil -->
-<!--
-<div>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
--->
-
-<!-- MODELO DOS REPO :
-<a href="https://github.com/CodeByTeusSilva/NOME DO REPOSITORIO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByTeusSilva&repo="NOME DO REPOSITORIO"&show_owner=true&theme=dracula" />
-</a>
-<a href="https://github.com/CodeByTeusSilva/NOME DO REPOSITORIO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByTeusSilva&repo="NOME DO REPOSITORIO"&show_owner=true&theme=dracula" />
-</a>
--->
