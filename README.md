@@ -12,7 +12,7 @@
 </div>
 
 <!-- GRÁFICO -->
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CodeByTeusSilva&theme=dracula)
+<!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CodeByTeusSilva&theme=dracula) -->
 
 <!-- TROFÉUS -->
 <p align="center">
