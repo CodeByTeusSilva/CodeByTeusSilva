@@ -15,9 +15,9 @@
 <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CodeByTeusSilva&theme=dracula) -->
 
 <!-- TROFÉUS -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CodeByTeusSilva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
 <!-- CARD LINKEDIN-->
 <div align="center">  
