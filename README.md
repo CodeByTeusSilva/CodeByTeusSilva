@@ -1,7 +1,7 @@
 <!-- TEMPLATE E TEXTO INICIAL-->
 <img width='100%' src='https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=180&section=header&text=Mateus+dos+Santos+Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35' />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá!+Meu+nome+é+Mateus+Silva;Tenho+21+anos;Eu+sou+de+Barueri,+São+Paulo;🌱+Sou+novo+na+área+de+desenvolvimento+backend;📚+Atualmente+estou+estudando+Java;🚀+Meu+objetivo+é+aprimorar+minhas+habilidades+e+;construir+uma+carreira+em+desenvolvimento+backend;Seja+Bem-Vindo!+⭐)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá!+Meu+nome+é+Mateus+Silva;Tenho+22+anos;Eu+sou+de+Barueri,+São+Paulo;🌱+Sou+novo+na+área+de+desenvolvimento+backend;📚+Atualmente+estou+estudando+Java;🚀+Meu+objetivo+é+aprimorar+minhas+habilidades+e+;construir+uma+carreira+em+desenvolvimento+backend;Seja+Bem-Vindo!+⭐)
 
   ##
 
@@ -50,9 +50,11 @@
   ##
   
 <!-- CONTADOR DE VISITANTES -->
+ <!--
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CodeByTeusSilva}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+-->
