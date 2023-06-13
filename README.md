@@ -43,7 +43,8 @@
   
 ### Estudando neste momento:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+  
 <!-- LISTA DE ICONS : https://github.com/iuricode/readme-template/blob/main/badges/badges.md -->
 
   ##
